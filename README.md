@@ -66,3 +66,7 @@ Authentication Failures: Complete failure of SPF and DMARC checks.
 Hyperlink Deception: Discrepancy between visible anchor text and actual destination URL.
 
 Coercive Financial Lure: High monetary urgency designed to induce panic and hasty compliance.
+# tools used:
+1. Microsoft Message Header Analyzer (MHA): Analyzes message route latency and breaks down Exchange/SMTP headers.
+2. Google Admin Toolbox Messageheader: Converts complex raw headers into a simple graphical timeline showing transit hops, delay times, and authentication checks.
+# sourse used for phising mails: caniphish website
